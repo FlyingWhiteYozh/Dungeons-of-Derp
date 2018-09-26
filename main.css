@@ -24,7 +24,7 @@ body {
 }
 body .stats {
   /*background-color: @color-primary-0;*/
-  background-image: url("/web/20170518220230im_/https://fiery-heat-4226.firebaseapp.com/assets/bg.png");
+  background-image: url("bg.png");
   background-repeat: repeat;
   font-size: 12px;
   line-height: 130%;
@@ -93,7 +93,7 @@ body .stats .holder table {
   top: 0;
   right: 0px;
   width: 405px;
-  background-image: url("/web/20170518220230im_/https://fiery-heat-4226.firebaseapp.com/assets/bg.png");
+  background-image: url("bg.png");
   background-repeat: repeat;
   overflow-x: hidden;
   overflow-y: auto;
@@ -482,7 +482,7 @@ body .stats .holder table {
   position: absolute;
   left: 0;
   height: 112px;
-  background-image: url("/web/20170518220230im_/https://fiery-heat-4226.firebaseapp.com/assets/bg.png");
+  background-image: url("bg.png");
   background-repeat: repeat;
   /*background-color: @color-secondary-1-0;*/
   border-top: 2px solid rgba(0, 0, 10, 0.7);
@@ -703,7 +703,7 @@ body .stats .holder table {
   transform: rotate(90deg);
 }
 .map {
-  background-image: url("/web/20170518220230im_/https://fiery-heat-4226.firebaseapp.com/assets/bg.png");
+  background-image: url("bg.png");
   background-repeat: repeat;
   position: absolute;
   top: 0;
@@ -744,7 +744,7 @@ body .stats .holder table {
   /*@color-secondary-1-1;*/
 }
 .config {
-  background-image: url("/web/20170518220230im_/https://fiery-heat-4226.firebaseapp.com/assets/bg.png");
+  background-image: url("bg.png");
   background-repeat: repeat;
   position: absolute;
   top: 0;
@@ -769,7 +769,7 @@ body .stats .holder table {
   width: 330px;
 }
 .help {
-  background-image: url("/web/20170518220230im_/https://fiery-heat-4226.firebaseapp.com/assets/bg.png");
+  background-image: url("bg.png");
   background-repeat: repeat;
   position: absolute;
   top: 0;
@@ -788,7 +788,7 @@ body .stats .holder table {
   padding: 0 10px;
 }
 .build {
-  background-image: url("/web/20170518220230im_/https://fiery-heat-4226.firebaseapp.com/assets/bg.png");
+  background-image: url("bg.png");
   background-repeat: repeat;
   position: absolute;
   top: 0px;
@@ -807,7 +807,7 @@ body .stats .holder table {
   padding: 0 10px;
 }
 .account {
-  background-image: url("/web/20170518220230im_/https://fiery-heat-4226.firebaseapp.com/assets/bg.png");
+  background-image: url("bg.png");
   background-repeat: repeat;
   position: absolute;
   top: 0;
